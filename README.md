@@ -2,7 +2,7 @@
 Este programa consistirá en que el programa hará un informe sobre los ficheros de la pizzería Maven, limpiará los datos y hará una recomendación de compra de ingredientes para cada semana.
 ### Archivos necesitados
 - 'data_dictionary.csv': archivo csv que explican cada columna de los diferentes csvs.
-- 'Maven_pizza_recommendation.py': programa python que hace el informa de datos y la recomendación.
+- 'Maven_pizza_unclean.py': programa python que hace el informe de datos y la recomendación.
 - 'order_details.csv': archivo con los detalles de los pedidos, habrá que limipiarlo.
 - 'orders.csv': archivo que registra cuando se hace cada pedido, este fichero tampoco tiene todos sus datos limpios.
 - 'pizza_types.csv': archivo con los detalles de cada pizza.
