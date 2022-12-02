@@ -1,4 +1,4 @@
-# # Maven_Pizzas
+# Maven_Pizzas_Unclean_Dataset_2016
 Este programa consistirá en que el programa hará un informe sobre los ficheros de la pizzería Maven, limpiará los datos y hará una recomendación de compra de ingredientes para cada semana.
 ### Archivos necesitados
 - 'data_dictionary.csv': archivo csv que explican cada columna de los diferentes csvs.
