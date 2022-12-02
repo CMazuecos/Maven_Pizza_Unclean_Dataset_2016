@@ -14,7 +14,7 @@ Este programa consistirá en que el programa hará un informe sobre los ficheros
 ### Forma de ejecución
 - Descargamos los archivos csv, el requirements.txt y el archivo python en una misma carpeta.
 - Ejecutar en la terminal 'pip install requirements.txt'.
-- Ejecutar 'Maven_pizza_recommendation.py' y automáticamente se ejecutará el programa. 
+- Ejecutar 'Maven_pizza_unclean.py' y automáticamente se ejecutará el programa. 
 - En primer lugar, se leen los datos de cada csv y se realizará el informe de datos. Se mostrará por pantalla y se escribirá en un fichero txt.
 - Posteriormente, se limpian los datos.
 - Después, con los datos ya extraídos y limpios se organizarán los pedidos por semanas.
